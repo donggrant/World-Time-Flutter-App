@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433159615555",
+    "project_id": "world-time-af68e",
+    "storage_bucket": "world-time-af68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433159615555:android:fe2f2683028aa7f69590f6",
+        "android_client_info": {
+          "package_name": "com.gdong.world_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433159615555-fkk37g5qd169jo871obuve756885tqtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUBVu1qoNZLWMklYfhh0x5LVRMsdXEsdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433159615555-fkk37g5qd169jo871obuve756885tqtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
